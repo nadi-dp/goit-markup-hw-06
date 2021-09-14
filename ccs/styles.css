@@ -706,6 +706,7 @@ body {
   line-height: 1.16;
   letter-spacing: 0.01em;
   color: var(--grey-color);
+  margin-bottom: 20px;
 }
 .modal-form-comments:focus,
 .modal-form-comments:hover {
@@ -734,9 +735,6 @@ body {
 }
 .modal-form-checkbox {
   outline: none;
-}
-.modal-form-checkbox-field {
-  margin-top: 20px;
 }
 .modal-form-checkbox-label {
   display: flex;
